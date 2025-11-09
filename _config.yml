@@ -9,7 +9,7 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url: "kibanpricing1.netlify.app" # TEST: IMPORTANT! Fill in your actual domain or Netlify URL
+url: "https://kibanpricing1.netlify.app" # TEST: IMPORTANT! Fill in your actual domain or Netlify URL
 baseurl: "" # TEST: Leave empty if hosted at the root domain
 title: Kibanpricing
 description: "TEST: This is the official site for Kibanpricing, focusing on signature design and community building."
