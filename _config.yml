@@ -24,7 +24,7 @@ timezone: "Asia/Shanghai" # TEST: Setting a specific timezone
 author:
   type: "person" # TEST: Set to default
   name: "Chiko-LIN" # TEST: Added a test name
-  url: "https://www.handwrittensign.com" # TEST: Author URL
+  url: "https://kibanpricing1.netlify.app" # TEST: Author URL
   avatar: "/assets/img/avatar.png" # TEST: Assuming an image path for the avatar
   bio: "TEST: Signature designer and community builder."
   email: "test@example.com" # TEST: Add a placeholder email
