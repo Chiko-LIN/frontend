@@ -49,7 +49,7 @@ paths:
 ## => Post
 ##############################
 ## excerpt
-excerpt_separator: # <-- **修正：恢复默认值，解决结构错误**
+excerpt_separator: # <-- **修正：设置一个默认值**
 
 ## license
 license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
