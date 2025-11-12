@@ -36,6 +36,27 @@ author:
 repository: Chiko-LIN/frontend # Update with your actual repo path (YourUserName/RepoName)
 repository_tree: main # Changed 'master' to the common 'main' branch name
 
+## => Header
+##############################
+header:
+  theme: dark
+  background: false
+  nav:
+    - titles:
+        en: Home
+      url: /
+    - titles:
+        en: Pricing
+      url: /pricing/
+    - titles:
+        en: Updates
+      url: /blog/
+    - titles:
+        en: Contact Us
+      url: /contact/
+    - titles:
+        en: About Me
+      url: /about/
 
 ## => Paths
 ##############################
