@@ -5,7 +5,7 @@
 @import
   "common/function",
 
-  "skins/default-dark",
+  //"skins/default-dark",
   "skins/{{ site.text_skin | default: site.data.variables.default.text_skin }}",
   // "skins/chocolate",
   // "skins/dark",
